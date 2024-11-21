@@ -22,6 +22,9 @@ The **Blood Bank Management API** is a RESTful service designed to manage blood 
 - **Search by Status**: `GET /api/bloodbank/search?status={status}`.
 - **Search by Donor Name**: `GET /api/bloodbank/search?donorName={donorName}`.
 
+
+![Blood Bank API Diagram](images/11.png)
+
 ---
 
 ## Data Model
